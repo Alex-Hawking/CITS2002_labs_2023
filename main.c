@@ -1,5 +1,5 @@
 /*
- * ANSWERS FOR WEEK _ QUESTION _ 
+ * ANSWERS FOR WEEK 1 QUESTION _ 
  *
  * Who did what (add a line explaining what you did and who you are)
  * 
