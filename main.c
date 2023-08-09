@@ -3,7 +3,7 @@
  *
  * Who did what (add a line explaining what you did and who you are)
  * 
- * - 
+ * - Alex Hawking: used a greedy algorithm to get minimum change possible
  *
  *
  * Add code below this line
