@@ -12,6 +12,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(char argv, int* argc) {
-    // Code or whatever
+int main(int argc, char *argv[]) {
+    //Code here
+
+    return 0;
 }
